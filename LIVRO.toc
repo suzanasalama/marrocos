@@ -1,37 +1,63 @@
 \thispagestyle {empty}
-\contentsline {section}{Ingrédients originaux}{8}{}%
-\contentsline {section}{Préparation adaptée}{8}{}%
-\contentsline {chapter}{Bolo de tâmaras}{9}{}%
-\contentsline {section}{Ingredientes originais}{9}{}%
-\contentsline {section}{Modo de preparo adaptado}{9}{}%
-\contentsline {section}{Ingrédients originaux}{12}{}%
-\contentsline {section}{Préparation adaptée}{12}{}%
-\contentsline {chapter}{Biscoitos de anis}{13}{}%
-\contentsline {section}{Ingredientes originais}{13}{}%
-\contentsline {section}{Modo de preparo adaptado}{13}{}%
-\contentsline {section}{Ingrédients originaux}{16}{}%
-\contentsline {section}{Préparation adaptée}{16}{}%
-\contentsline {chapter}{Torta suíça de coco}{17}{}%
-\contentsline {section}{Ingredientes originais}{17}{}%
-\contentsline {section}{Modo de preparo adaptado}{17}{}%
-\contentsline {section}{Ingrédients originaux}{20}{}%
-\contentsline {section}{Préparation adaptée}{20}{}%
-\contentsline {chapter}{Kobeba}{21}{}%
-\contentsline {section}{Ingredientes originais}{21}{}%
-\contentsline {section}{Modo de preparo adaptado}{21}{}%
-\contentsline {section}{Ingrédients originaux}{24}{}%
-\contentsline {section}{Préparation adaptée}{24}{}%
-\contentsline {chapter}{Bolo de semolina}{25}{}%
-\contentsline {section}{Ingredientes originais}{25}{}%
-\contentsline {section}{Modo de preparo adaptado}{25}{}%
-\contentsline {section}{Ingrédients originaux}{28}{}%
-\contentsline {section}{Préparation adaptée}{28}{}%
-\contentsline {chapter}{Torta de chocolate}{29}{}%
-\contentsline {section}{Ingredientes originais}{29}{}%
-\contentsline {section}{Modo de preparo adaptado}{29}{}%
-\contentsline {section}{Ingrédients originaux}{32}{}%
-\contentsline {section}{Préparation adaptée}{32}{}%
-\contentsline {chapter}{Atayef}{33}{}%
-\contentsline {section}{Ingredientes originais}{33}{}%
-\contentsline {section}{Modo de preparo adaptado}{33}{}%
+\contentsline {part}{\bfseries Portugal}{7}{}%
+\contentsline {part}{Ao redor de Lisboa}{9}{}%
+\contentsline {chapter}{Alfama}{11}{}%
+\contentsline {chapter}{Mouraria}{13}{}%
+\contentsline {chapter}{Baixa e Praça do Comércio}{15}{}%
+\contentsline {chapter}{Chiado e Bairro Alto}{17}{}%
+\contentsline {chapter}{Livrarias e cultura do livro}{19}{}%
+\contentsline {chapter}{Gulbenkian}{21}{}%
+\contentsline {chapter}{Azulejos}{23}{}%
+\contentsline {chapter}{Distrito de Belém}{25}{}%
+\contentsline {chapter}{Évora}{27}{}%
+\contentsline {part}{\bfseries Marrocos}{29}{}%
+\contentsline {part}{Marraquexe}{31}{}%
+\contentsline {chapter}{Le Jardin Secret}{35}{}%
+\contentsline {chapter}{Dar El Bacha (Musée des Confluences)}{37}{}%
+\contentsline {chapter}{Koutoubia}{39}{}%
+\contentsline {chapter}{Túmulos Saadianos}{41}{}%
+\contentsline {chapter}{Palácio el Badi}{43}{}%
+\contentsline {chapter}{Palácio Bahia}{45}{}%
+\contentsline {chapter}{Mellah de Marraquexe}{47}{}%
+\contentsline {chapter}{Jemaa el-Fna}{49}{}%
+\contentsline {chapter}{Maison de la Photographie}{51}{}%
+\contentsline {chapter}{Souk Semmarine}{53}{}%
+\contentsline {chapter}{Mercados de moedas}{55}{}%
+\contentsline {chapter}{Librairie Booklore}{57}{}%
+\contentsline {chapter}{«Bouquinistes» de Bab Doukkala}{59}{}%
+\contentsline {chapter}{Madrassa Ben Youssef}{61}{}%
+\contentsline {chapter}{Museu Al Maaden}{63}{}%
+\contentsline {chapter}{Comptoir des Mines Galerie}{65}{}%
+\contentsline {chapter}{Musée Macma}{67}{}%
+\contentsline {chapter}{Música andalusina no Dar Zephyr}{69}{}%
+\contentsline {chapter}{Musée de la Musique}{71}{}%
+\contentsline {part}{Essaouira}{73}{}%
+\contentsline {chapter}{Skala de la Ville}{75}{}%
+\contentsline {chapter}{Skala do Porto e Bab el-Marsa}{77}{}%
+\contentsline {chapter}{Porto de Essaouira}{79}{}%
+\contentsline {chapter}{Medina e souks}{81}{}%
+\contentsline {chapter}{Place Moulay Hassan}{83}{}%
+\contentsline {chapter}{Mellah de Essaouira}{85}{}%
+\contentsline {chapter}{Kasbah}{87}{}%
+\contentsline {chapter}{Musée Sidi Mohammed Ben Abdellah}{89}{}%
+\contentsline {chapter}{Litoral e ilhas de Mogador}{91}{}%
+\contentsline {chapter}{Outros pontos importantes}{93}{}%
+\contentsline {part}{Fès}{95}{}%
+\contentsline {chapter}{Bab Boujloud}{97}{}%
+\contentsline {chapter}{Talaa Kebira e Talaa Sghira}{99}{}%
+\contentsline {chapter}{Madrassa Bou Inania}{101}{}%
+\contentsline {chapter}{Dar al-Magana}{103}{}%
+\contentsline {chapter}{Museu Nejjarine}{105}{}%
+\contentsline {chapter}{Fonte Nejjarine}{107}{}%
+\contentsline {chapter}{Al-Qarawiyyin}{109}{}%
+\contentsline {chapter}{Madrassa Al-Attarine}{111}{}%
+\contentsline {chapter}{Praça Seffarine}{113}{}%
+\contentsline {chapter}{Souks e bairros de artesãos}{115}{}%
+\contentsline {chapter}{Fès el-Jdid}{117}{}%
+\contentsline {chapter}{Mellah de Fès}{119}{}%
+\contentsline {chapter}{Palácio Real e Bab el-Makhzen}{121}{}%
+\contentsline {chapter}{Dar Batha}{123}{}%
+\contentsline {chapter}{Jnan Sbil}{125}{}%
+\contentsline {chapter}{Túmulos Merínidas}{127}{}%
+\contentsline {chapter}{Outros pontos importantes}{129}{}%
 \babel@toc {brazilian}{}\relax 
